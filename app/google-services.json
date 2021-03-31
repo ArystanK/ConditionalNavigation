@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959015609311",
+    "project_id": "conditional-navigation-6af85",
+    "storage_bucket": "conditional-navigation-6af85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959015609311:android:fac3da2b775a6fbb1dda6a",
+        "android_client_info": {
+          "package_name": "kz.arctan.conditionalnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959015609311-7ln8k2behci69lcmr2jeo21p638qimet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWTLE8jwE7DTexNM1-sp2mm6Hzz_gIRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959015609311-7ln8k2behci69lcmr2jeo21p638qimet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
